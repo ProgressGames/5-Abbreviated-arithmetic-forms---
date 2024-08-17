@@ -15,3 +15,6 @@ void main()
 
 	cout << A << endl;
 }
+
+// Назвавние урока: Сокращенные арифметические формы +=, -= и т д.
+// By naming the lesson elements: Abbreviated arithmetic forms +=, -=, and other.
